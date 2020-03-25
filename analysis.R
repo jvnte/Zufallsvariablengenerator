@@ -1,10 +1,6 @@
 # https://towardsdatascience.com/https-towardsdatascience-com-everything-you-need-to-know-about-animated-bar-charts-be033f398619
 
 library(tidyverse)
-library(leaflet)
-library(caret)
-library(shiny)
-library(shinythemes)
 library(gganimate)
 library(gifski)
 library(png)
@@ -22,7 +18,7 @@ coords <- read_csv("worldcities_coordinates_adjusted.csv")
 # Rename column countries and territories
 names(covid)[7] <- "Countries_and_territories"
 
-# Rename GeoId NA into NAM
+# Rename GeoId NA into NAM 
 covid <- covid %>% mutate(GeoId = ifelse(is.na(GeoId), "NAM", GeoId))
 
 # Create ID column
@@ -103,7 +99,7 @@ anim <-
         plot.caption =element_text(size=12, hjust=0.5, face="italic", color="red"),
         plot.background=element_blank(),
         plot.margin = margin(1,4,1, 8, "cm")) +
-  transition_states(DateRep, transition_length = 4, state_length = 6) +
+  transition_states(DateRep, transition_length = 1, state_length = 50) + 
   ease_aes('sine-in-out') +
   labs(title = 'Number of COVID-19 cases worldwide at {closest_state}',  
        caption  = "Data Source: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide")
