@@ -1,0 +1,202 @@
+country,city,iso2,lat,lng
+Afghanistan,Kabul,AF,34.5167,69.1833
+Albania,Tirana,AL,41.3275,19.8189
+Algeria,Algiers,DZ,36.7631,3.0506
+American Samoa,Pago Pago,AS,-14.274,-170.7046
+Andorra,Andorra la Vella,AD,42.5,1.5165
+Angola,Luanda,AO,-8.8383,13.2344
+Antigua And Barbuda,Saint John’s,AG,17.118,-61.85
+Argentina,Buenos Aires,AR,-34.6025,-58.3975
+Armenia,Yerevan,AM,40.1812,44.5136
+Aruba,Oranjestad,AW,12.5304,-70.029
+Australia,Canberra,AU,-35.283,149.129
+Austria,Vienna,AT,48.2,16.3666
+Azerbaijan,Baku,AZ,40.3953,49.8622
+"Bahamas, The",Nassau,BS,25.0834,-77.35
+Bahrain,Manama,BH,26.2361,50.5831
+Bangladesh,Dhaka,BD,23.7231,90.4086
+Barbados,Bridgetown,BB,13.102,-59.6165
+Belarus,Minsk,BY,53.9,27.5666
+Belgium,Brussels,BE,50.8333,4.3333
+Belize,Belmopan,BZ,17.252,-88.7671
+Benin,Cotonou,BJ,6.4,2.52
+Bhutan,Thimphu,BT,27.473,89.639
+Bolivia,La Paz,BO,-16.498,-68.15
+Bosnia And Herzegovina,Sarajevo,BA,43.85,18.383
+Botswana,Gaborone,BW,-24.6463,25.9119
+Brazil,Brasília,BR,-15.7833,-47.9161
+Brunei,Bandar Seri Begawan,BN,4.8833,114.9333
+Bulgaria,Sofia,BG,42.6833,23.3167
+Burkina Faso,Ouagadougou,BF,12.3703,-1.5247
+Burma,Rangoon,MM,16.7834,96.1667
+Burundi,Bujumbura,BI,-3.3761,29.36
+Cabo Verde,Praia,CV,14.9167,-23.5167
+Cambodia,Phnom Penh,KH,11.55,104.9166
+Cameroon,Yaoundé,CM,3.8667,11.5167
+Canada,Ottawa,CA,45.4167,-75.7
+Central African Republic,Bangui,CF,4.3666,18.5583
+Chad,N’Djamena,TD,12.1131,15.0491
+Chile,Santiago,CL,-33.45,-70.667
+China,Beijing,CN,39.9289,116.3883
+Colombia,Bogotá,CO,4.5964,-74.0833
+Comoros,Moroni,KM,-11.7042,43.2402
+Congo (Brazzaville),Brazzaville,CG,-4.2592,15.2847
+Congo (Kinshasa),Kinshasa,CD,-4.3297,15.315
+Costa Rica,San José,CR,9.935,-84.0841
+Côte D’Ivoire,Abidjan,CI,5.32,-4.04
+Croatia,Zagreb,HR,45.8,16
+Cuba,Havana,CU,23.132,-82.3642
+Curaçao,Willemstad,CW,12.2004,-69.02
+Cyprus,Nicosia,CY,35.1667,33.3666
+Czechia,Prague,CZ,50.0833,14.466
+Denmark,Copenhagen,DK,55.6786,12.5635
+Djibouti,Djibouti,DJ,11.595,43.148
+Dominica,Roseau,DM,15.301,-61.387
+Dominican Republic,Santo Domingo,DO,18.4701,-69.9001
+Ecuador,Quito,EC,-0.215,-78.5001
+Egypt,Cairo,EG,30.05,31.25
+El Salvador,San Salvador,SV,13.71,-89.203
+Equatorial Guinea,Malabo,GQ,3.75,8.7833
+Eritrea,Asmara,ER,15.3333,38.9333
+Estonia,Tallinn,EE,59.4339,24.728
+Ethiopia,Addis Ababa,ET,9.0333,38.7
+Fiji,Suva,FJ,-18.133,178.4417
+Finland,Helsinki,FI,60.1756,24.9341
+France,Paris,FR,48.8667,2.3333
+Gabon,Libreville,GA,0.3854,9.458
+"Gambia, The",Banjul,GM,13.4539,-16.5917
+Georgia,Tbilisi,GE,41.725,44.7908
+Germany,Berlin,DE,52.5218,13.4015
+Ghana,Accra,GH,5.55,-0.2167
+Greece,Athens,GR,37.9833,23.7333
+Grenada,Saint George’s,GD,12.0526,-61.7416
+Guam,Hagåtña,GU,13.4745,144.7504
+Guatemala,Guatemala City,GT,14.6211,-90.527
+Guinea,Conakry,GN,9.5315,-13.6802
+Guinea-Bissau,Bissau,GW,11.865,-15.5984
+Guyana,Georgetown,GY,6.802,-58.167
+Haiti,Port-au-Prince,HT,18.541,-72.336
+Honduras,Tegucigalpa,HN,14.102,-87.2175
+Hungary,Budapest,HU,47.5,19.0833
+Iceland,Reykjavík,IS,64.15,-21.95
+India,New Delhi,IN,28.6,77.2
+Indonesia,Jakarta,ID,-6.1744,106.8294
+Iran,Tehran,IR,35.6719,51.4243
+Iraq,Baghdad,IQ,33.3386,44.3939
+Ireland,Dublin,IE,53.3331,-6.2489
+Israel,Jerusalem,IL,31.7784,35.2066
+Italy,Rome,IT,41.896,12.4833
+Jamaica,Kingston,JM,17.9771,-76.7674
+Japan,Tokyo,JP,35.685,139.7514
+Jordan,Amman,JO,31.95,35.9333
+Kazakhstan,Nur-Sultan,KZ,51.1811,71.4278
+Kenya,Nairobi,KE,-1.2833,36.8167
+Kiribati,Tarawa,KI,1.3382,173.0176
+"Korea, North",Pyongyang,KP,39.0194,125.7547
+"Korea, South",Seoul,KR,37.5663,126.9997
+Kosovo,Pristina,XK,42.6666,21.1724
+Kuwait,Kuwait City,KW,29.3697,47.9783
+Kyrgyzstan,Bishkek,KG,42.8731,74.5852
+Laos,Vientiane,LA,17.9667,102.6
+Latvia,Riga,LV,56.95,24.1
+Lebanon,Beirut,LB,33.872,35.5097
+Lesotho,Maseru,LS,-29.3167,27.4833
+Liberia,Monrovia,LR,6.3106,-10.8048
+Libya,Tripoli,LY,32.8925,13.18
+Liechtenstein,Vaduz,LI,47.1337,9.5167
+Lithuania,Vilnius,LT,54.6834,25.3166
+Luxembourg,Luxembourg,LU,49.6117,6.13
+Macedonia,Skopje,MK,42,21.4335
+Madagascar,Antananarivo,MG,-18.9166,47.5166
+Malawi,Lilongwe,MW,-13.9833,33.7833
+Malaysia,Kuala Lumpur,MY,3.1667,101.7
+Maldives,Male,MV,4.1667,73.4999
+Mali,Bamako,ML,12.65,-8
+Malta,Valletta,MT,35.8997,14.5147
+Marshall Islands,Majuro,MH,7.103,171.38
+Mauritania,Nouakchott,MR,18.0864,-15.9753
+Mauritius,Port Louis,MU,-20.1666,57.5
+Mexico,Mexico City,MX,19.4424,-99.131
+"Micronesia, Federated States Of",Palikir,FM,6.9166,158.15
+Moldova,Chisinau,MD,47.005,28.8577
+Monaco,Monaco,MC,43.7396,7.4069
+Mongolia,Ulaanbaatar,MN,47.9167,106.9166
+Montenegro,Podgorica,ME,42.466,19.2663
+Morocco,Rabat,MA,34.0253,-6.8361
+Mozambique,Maputo,MZ,-25.9553,32.5892
+Namibia,Windhoek,NAM,-22.57,17.0835
+Nepal,Kathmandu,NP,27.7167,85.3166
+Netherlands,The Hague,NL,52.08,4.27
+New Zealand,Wellington,NZ,-41.3,174.7833
+Nicaragua,Managua,NI,12.153,-86.2685
+Niger,Niamey,NE,13.5167,2.1167
+Nigeria,Abuja,NG,9.0833,7.5333
+Northern Mariana Islands,Capitol Hill,MP,15.2137,145.7546
+Norway,Oslo,NO,59.9167,10.75
+Oman,Muscat,OM,23.6133,58.5933
+Pakistan,Islamabad,PK,33.7,73.1666
+Palau,Ngerulmud,PW,7.5,134.6242
+Panama,Panama City,PA,8.968,-79.533
+Papua New Guinea,Port Moresby,PG,-9.4647,147.1925
+Paraguay,Asunción,PY,-25.2964,-57.6415
+Peru,Lima,PE,-12.048,-77.0501
+Philippines,Manila,PH,14.6042,120.9822
+Poland,Warsaw,PL,52.25,21
+Portugal,Lisbon,PT,38.7227,-9.1449
+Qatar,Doha,QA,25.2866,51.533
+Romania,Bucharest,RO,44.4334,26.0999
+Russia,Moscow,RU,55.7522,37.6155
+Rwanda,Kigali,RW,-1.9536,30.0605
+Saint Kitts And Nevis,Basseterre,KN,17.302,-62.717
+Saint Lucia,Castries,LC,14.002,-61
+Saint Vincent And The Grenadines,Kingstown,VC,13.1483,-61.2121
+Samoa,Apia,WS,-13.8415,-171.7386
+San Marino,San Marino,SM,43.9172,12.4667
+Sao Tome And Principe,São Tomé,ST,0.3334,6.7333
+Saudi Arabia,Riyadh,SA,24.6408,46.7727
+Senegal,Dakar,SN,14.7158,-17.4731
+Serbia,Belgrade,RS,44.818600000000004,20.468
+Seychelles,Victoria,SC,-4.6166,55.45
+Sierra Leone,Freetown,SL,8.47,-13.2342
+Singapore,Singapore,SG,1.293,103.8558
+Sint Maarten,Philipsburg,SX,18.0255,-63.045
+Slovakia,Bratislava,SK,48.15,17.117
+Slovenia,Ljubljana,SI,46.0553,14.515
+Solomon Islands,Honiara,SB,-9.438,159.9498
+Somalia,Mogadishu,SO,2.0667,45.3667
+South Africa,Cape Town,ZA,-33.92,18.435
+South Sudan,Juba,SS,4.83,31.58
+Spain,Madrid,ES,40.4,-3.6834
+Sri Lanka,Colombo,LK,6.932,79.8578
+Sudan,Khartoum,SD,15.5881,32.5342
+Suriname,Paramaribo,SR,5.835,-55.167
+Swaziland,Mbabane,SZ,-26.3167,31.1333
+Sweden,Stockholm,SE,59.3508,18.0973
+Switzerland,Bern,CH,46.9167,7.467
+Syria,Damascus,SY,33.5,36.3
+Taiwan,Taipei,TW,25.0358,121.5683
+Tajikistan,Dushanbe,TJ,38.56,68.7739
+Tanzania,Dar es Salaam,TZ,-6.8,39.2683
+Thailand,Bangkok,TH,13.75,100.5166
+Timor-Leste,Dili,TL,-8.5594,125.5795
+Togo,Lomé,TG,6.1319,1.2228
+Tonga,Nuku‘alofa,TO,-21.1385,-175.2206
+Trinidad And Tobago,Port of Spain,TT,10.652,-61.517
+Tunisia,Tunis,TN,36.8028,10.1797
+Turkey,Ankara,TR,39.9272,32.8644
+Turkmenistan,Ashgabat,TM,37.95,58.3833
+Tuvalu,Funafuti,TV,-8.5167,179.2166
+Uganda,Kampala,UG,0.3167,32.5833
+Ukraine,Kyiv,UA,50.4334,30.5166
+United Arab Emirates,Abu Dhabi,AE,24.4667,54.3666
+United Kingdom,London,GB,51.5,-0.1167
+United States,Washington,US,38.9047,-77.0163
+Uruguay,Montevideo,UY,-34.858,-56.1711
+Uzbekistan,Tashkent,UZ,41.3117,69.2949
+Vanuatu,Port-Vila,VU,-17.7334,168.3166
+Venezuela,Caracas,VE,10.501,-66.917
+Vietnam,Hanoi,VN,21.0333,105.85
+West Bank,Al Quds,XW,31.7764,35.2269
+Yemen,Sanaa,YE,15.3547,44.2066
+Zambia,Lusaka,ZM,-15.4166,28.2833
+Zimbabwe,Harare,ZW,-17.8178,31.0447
