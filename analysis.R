@@ -69,7 +69,7 @@ for( idx in all_Dates ){
 covid <- covid %>% left_join(., new_df, by = c("ID" = "ID"))
 covid <- covid %>% filter(Rank <= 10)
 
-
+# Create animation
 anim <-
   covid %>%
   ggplot(aes(Rank, group = Countries_and_territories)) +
@@ -99,14 +99,14 @@ anim <-
         plot.caption =element_text(size=12, hjust=0.5, face="italic", color="red"),
         plot.background=element_blank(),
         plot.margin = margin(1,4,1, 8, "cm")) +
-  transition_states(DateRep, transition_length = 1, state_length = 50) + 
+  transition_states(DateRep, transition_length = 4, state_length = 1) + 
   ease_aes('sine-in-out') +
   labs(title = 'Number of COVID-19 cases worldwide at {closest_state}',  
        caption  = "Data Source: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide")
 
 
-animate(anim, nframes = 350,fps = 25,  width = 1200, height = 1000, 
-        renderer = gifski_renderer("gganim.gif"))
+animate(anim, nframes = 350,fps = 5,  width = 1200, height = 1000, 
+        renderer = gifski_renderer("COVID-19.gif"))
 
 
 
