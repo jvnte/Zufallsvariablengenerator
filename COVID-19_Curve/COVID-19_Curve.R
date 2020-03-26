@@ -91,7 +91,7 @@ covid %>%
         plot.title=element_text(size=25, hjust=0.5, face="bold", colour="red", vjust=-1),
         legend.position="none") +
   labs(title = 'Development of COVID-19 cases worldwide from case #50 onwards',
-       x = "Day 50 + x",
+       x = "Days after case #50 occured",
        y = "",
        caption  = "Data Source: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide") +
   theme_minimal() 
