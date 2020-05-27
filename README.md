@@ -1,6 +1,6 @@
 ## Install Docker
 
-Find installation links for Docker [here!](https://docs.docker.com/get-docker/)
+Find installation links for Docker [here](https://docs.docker.com/get-docker/)!
 
 ## Build Docker file
 
