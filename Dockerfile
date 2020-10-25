@@ -21,9 +21,9 @@ RUN apt-get update && \
 
 # copy necessary files
 ## renv.lock file
-COPY /Zufallsvariablengenerator/renv.lock ./renv.lock
+COPY /renv.lock ./renv.lock
 ## app folder
-COPY /Zufallsvariablengenerator ./app
+COPY /source ./app
 
 # install renv & restore packages
 RUN Rscript -e 'install.packages("renv")'
